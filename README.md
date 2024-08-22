@@ -1,2 +1,2 @@
 # git-demo
-demo class for git and git hub
+demo class for git and git hub.
